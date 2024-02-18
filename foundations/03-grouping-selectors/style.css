@@ -1,0 +1,15 @@
+.yellow,
+.black {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.yellow {
+    background-color: rgb(245, 255, 100);
+}
+
+.black {
+    color: rgb(255,255,255);
+    background-color: black;
+    font-weight: bold;
+}
